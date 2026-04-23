@@ -1,7 +1,6 @@
-# Simple Audio Player (Swift)
+# Simple Audio Player
 
-Simple Audio Player (Swift) is the original SwiftUI macOS app version of
-Simple Audio Player. It is kept here as a preserved prototype.
+Simple Audio Player is a minimalistic audio player application built with SwiftUI for macOS.
 
 <img src="/screenshot.png?raw=true" alt="App screenshot" width="539">
 
