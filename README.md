@@ -1,6 +1,8 @@
-# Simple Audio Player
+# Simple Audio Player (Swift)
 
-Simple Audio Player is a minimalistic audio player application built with SwiftUI for macOS. 
+Simple Audio Player (Swift) is the original SwiftUI macOS app version of
+Simple Audio Player. It is kept here as a preserved prototype; current plugin
+development lives in [pmdarrow/track-player](https://github.com/pmdarrow/track-player).
 
 <img src="/screenshot.png?raw=true" alt="App screenshot" width="539">
 
@@ -22,13 +24,13 @@ I wanted a super lightweight open source audio player for local audio files that
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/pmdarrow/SimpleAudioPlayer.git
+git clone https://github.com/pmdarrow/simple-audio-player-swift.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd SimpleAudioPlayer
+cd simple-audio-player-swift
 ```
 
 Open the project in Xcode:
